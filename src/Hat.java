@@ -6,6 +6,8 @@ public class Hat {
 
         System.out.println("Hat page ne features");
 
+        System.out.println("Hat page some changes added");
+
 
 
     }
