@@ -4,6 +4,8 @@ public class Hat {
 
         System.out.println("Hat page");
 
+        System.out.println("Hat page ne features");
+
 
 
     }
