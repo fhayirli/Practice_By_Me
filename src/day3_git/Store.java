@@ -6,6 +6,8 @@ public class Store {
 
         System.out.println("Store page");
 
+        System.out.println("Store page new changes");
+
 
     }
 
